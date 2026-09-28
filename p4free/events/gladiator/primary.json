@@ -4,17 +4,13 @@
   "lang": "plugins.events.views.gladiator.primary",
   "structure": [
     ". . . . . . . . .",
-    ". r h c . e . s .",
+    ". r . c . e . s .",
     ". . . . . . . . ."
   ],
   "ingredients": {
     "r": {
       "bind": "ranking",
       "material": "DRAGON_EGG"
-    },
-    "h": {
-      "bind": "schedule",
-      "material": "WATCH"
     },
     "c": {
       "bind": "commands",
