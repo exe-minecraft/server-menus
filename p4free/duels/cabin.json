@@ -1,0 +1,27 @@
+{
+  "size": 6,
+  "title": "plugins.duels.views.cabin.title",
+  "lang": "plugins.duels.views.cabin",
+  "update-interval": 20,
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    ". o o o e o o o .",
+    ". o o o o o o o .",
+    ". . . . . . . . .",
+    "b . . < . > . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "e": {
+      "bind": "empty",
+      "material": "WATCH"
+    },
+    "b": {
+      "bind": "back",
+      "material": "ARROW"
+    }
+  }
+}

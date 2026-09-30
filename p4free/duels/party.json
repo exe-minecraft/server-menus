@@ -1,0 +1,44 @@
+{
+  "size": 5,
+  "title": "plugins.duels.views.party.title",
+  "lang": "plugins.duels.views.party",
+  "structure": [
+    ". . . . l . . . .",
+    "m m m m m m m m m",
+    "m m m m m m m . .",
+    ". . . . . . . . .",
+    "b . i s a c x . ."
+  ],
+  "ingredients": {
+    "l": {
+      "bind": "leader"
+    },
+    "m": {
+      "content": "members"
+    },
+    "b": {
+      "bind": "back",
+      "material": "ARROW"
+    },
+    "i": {
+      "bind": "invite",
+      "material": "NAME_TAG"
+    },
+    "s": {
+      "bind": "split",
+      "material": "SHEARS"
+    },
+    "a": {
+      "bind": "all",
+      "material": "TNT"
+    },
+    "c": {
+      "bind": "challenge-party",
+      "material": "IRON_SWORD"
+    },
+    "x": {
+      "bind": "leave",
+      "material": "WOOD_DOOR"
+    }
+  }
+}

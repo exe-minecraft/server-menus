@@ -1,0 +1,33 @@
+{
+  "size": 5,
+  "title": "plugins.duels.views.kit.title",
+  "lang": "plugins.duels.views.kit",
+  "structure": [
+    "k k k k k k k k k",
+    "k k k k k k k k k",
+    "k k k k k k k k k",
+    "k k k k k k k k k",
+    "b . . d s c . . ."
+  ],
+  "ingredients": {
+    "k": {
+      "content": "slots"
+    },
+    "b": {
+      "bind": "back",
+      "material": "ARROW"
+    },
+    "d": {
+      "bind": "standard",
+      "material": "PAPER"
+    },
+    "s": {
+      "bind": "save",
+      "material": "EMERALD"
+    },
+    "c": {
+      "bind": "close",
+      "material": "BARRIER"
+    }
+  }
+}

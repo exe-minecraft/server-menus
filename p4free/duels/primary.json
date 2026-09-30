@@ -1,0 +1,58 @@
+{
+  "size": 4,
+  "title": "plugins.duels.views.primary.title",
+  "lang": "plugins.duels.views.primary",
+  "update-interval": 20,
+  "structure": [
+    ". . . . s . . . .",
+    ". . . . . . . . .",
+    ". o . t . d . p .",
+    ". c . k . r . h ."
+  ],
+  "ingredients": {
+    "s": {
+      "bind": "stats"
+    },
+    "o": {
+      "bind": "queue-1v1",
+      "states": {
+        "idle": { "material": "DIAMOND_SWORD" },
+        "queued": { "material": "DIAMOND_SWORD", "glowing": true }
+      }
+    },
+    "t": {
+      "bind": "queue-2v2",
+      "states": {
+        "idle": { "material": "DIAMOND_SWORD" },
+        "queued": { "material": "DIAMOND_SWORD", "glowing": true }
+      }
+    },
+    "d": {
+      "bind": "challenge",
+      "material": "PAPER"
+    },
+    "p": {
+      "bind": "party",
+      "states": {
+        "none": { "material": "CAKE" },
+        "member": { "material": "CAKE", "glowing": true }
+      }
+    },
+    "c": {
+      "bind": "cabin",
+      "material": "EYE_OF_ENDER"
+    },
+    "k": {
+      "bind": "kit",
+      "material": "CHEST"
+    },
+    "r": {
+      "bind": "ranking",
+      "material": "NETHER_STAR"
+    },
+    "h": {
+      "bind": "commands",
+      "material": "BOOK"
+    }
+  }
+}
