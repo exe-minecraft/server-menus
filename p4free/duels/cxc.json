@@ -1,0 +1,13 @@
+{
+  "size": 3,
+  "title": "plugins.duels.views.cxc.title",
+  "lang": "plugins.duels.views.cxc",
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "o": "content"
+  }
+}
