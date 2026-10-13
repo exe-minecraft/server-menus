@@ -4,15 +4,23 @@
   "lang": "plugins.events.views.gladiator.history-detail",
   "structure": [
     ". . . . o . . . .",
-    ". d . r . e . . .",
-    ". l . c . . . . .",
+    ". . w . . . m . .",
     ". . . . . . . . .",
+    ". l . d r e . c .",
     ". . . . b . . . ."
   ],
   "ingredients": {
     "o": {
       "bind": "overview",
-      "material": "NETHER_STAR"
+      "material": "WATCH"
+    },
+    "w": {
+      "bind": "winner",
+      "material": "GOLD_BLOCK"
+    },
+    "m": {
+      "bind": "myth",
+      "material": "DIAMOND_SWORD"
     },
     "d": {
       "bind": "deaths",
