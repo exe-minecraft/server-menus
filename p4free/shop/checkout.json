@@ -1,0 +1,34 @@
+{
+  "size": 3,
+  "title": "plugins.shop.views.checkout.title",
+  "lang": "plugins.shop.views.checkout",
+  "structure": [
+    ". . . . . . . . .",
+    ". . t . i . c . .",
+    ". . . . b . . . ."
+  ],
+  "ingredients": {
+    "i": {
+      "bind": "product"
+    },
+    "t": {
+      "bind": "tokens",
+      "material": "EMERALD",
+      "name": "plugins.shop.views.checkout.items.tokens.name",
+      "lore": "plugins.shop.views.checkout.items.tokens.lore"
+    },
+    "c": {
+      "bind": "cash",
+      "material": "DOUBLE_PLANT",
+      "name": "plugins.shop.views.checkout.items.cash.name",
+      "lore": "plugins.shop.views.checkout.items.cash.lore"
+    },
+    "b": {
+      "bind": "back",
+      "material": "INK_SACK",
+      "data": 1,
+      "name": "plugins.shop.views.back.name",
+      "lore": "plugins.shop.views.back.lore"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "size": 6,
+  "title": "plugins.shop.views.mystery-boxes.title",
+  "lang": "plugins.shop.views.mystery-boxes",
+  "structure": [
+    "# # # # p # # # #",
+    "# . . . . . . . #",
+    "# . . o o o . . #",
+    "# . . o o o . . #",
+    "# . . . . . . . #",
+    "# # # # b # # # #"
+  ],
+  "ingredients": {
+    "#": "filler",
+    "o": "content",
+    "p": {
+      "material": "PAPER",
+      "name": "plugins.shop.views.profile.name",
+      "lore": "plugins.shop.views.profile.lore"
+    },
+    "b": {
+      "bind": "back",
+      "material": "INK_SACK",
+      "data": 1,
+      "name": "plugins.shop.views.back.name",
+      "lore": "plugins.shop.views.back.lore"
+    }
+  }
+}
