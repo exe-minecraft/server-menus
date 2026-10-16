@@ -1,0 +1,31 @@
+{
+  "size": 5,
+  "title": "plugins.duels.views.inventory.title",
+  "lang": "plugins.duels.views.inventory",
+  "structure": [
+    "a a a a . . . h e",
+    "i i i i i i i i i",
+    "i i i i i i i i i",
+    "i i i i i i i i i",
+    "t t t t t t t t t"
+  ],
+  "ingredients": {
+    "a": {
+      "content": "armor"
+    },
+    "i": {
+      "content": "inventory"
+    },
+    "t": {
+      "content": "hotbar"
+    },
+    "h": {
+      "bind": "health",
+      "material": "SPECKLED_MELON"
+    },
+    "e": {
+      "bind": "effects",
+      "material": "BREWING_STAND_ITEM"
+    }
+  }
+}
