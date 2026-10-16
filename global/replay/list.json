@@ -1,0 +1,12 @@
+{
+  "size": 5,
+  "title": "plugins.replay.views.list.title",
+  "lang": "plugins.replay.views.list",
+  "structure": [". . . . . . . . .", ". o o o o o o o .", ". o o o o o o o .", ". o o o o o o o .", "< . . . b . . . >"],
+  "ingredients": {
+    "o": "content",
+    "<": { "bind": "previous", "material": "ARROW" },
+    ">": { "bind": "next", "material": "ARROW" },
+    "b": { "bind": "close", "material": "BARRIER" }
+  }
+}
