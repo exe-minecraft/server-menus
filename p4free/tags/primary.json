@@ -1,0 +1,61 @@
+{
+  "size": 6,
+  "title": "plugins.tags.views.tags.title",
+  "lang": "plugins.tags.views.tags",
+  "structure": [
+    ". . . . i . . . .",
+    ". o o o o o o o .",
+    "< o o o o o o o >",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". . . s e c . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "i": {
+      "material": "NAME_TAG",
+      "name": "plugins.tags.views.tags.items.info.name",
+      "lore": "plugins.tags.views.tags.items.info.lore"
+    },
+    "e": { "bind": "empty" },
+    "s": {
+      "bind": "slot",
+      "states": {
+        "buy": {
+          "material": "EMERALD",
+          "name": "plugins.tags.views.tags.items.slot.buy.name",
+          "lore": "plugins.tags.views.tags.items.slot.buy.lore"
+        },
+        "no-balance": {
+          "material": "EMERALD",
+          "name": "plugins.tags.views.tags.items.slot.no-balance.name",
+          "lore": "plugins.tags.views.tags.items.slot.no-balance.lore"
+        },
+        "maximum": {
+          "material": "BARRIER",
+          "name": "plugins.tags.views.tags.items.slot.maximum.name",
+          "lore": "plugins.tags.views.tags.items.slot.maximum.lore"
+        }
+      }
+    },
+    "c": {
+      "bind": "clear",
+      "states": {
+        "clear": {
+          "material": "INK_SACK",
+          "data": 1,
+          "name": "plugins.tags.views.tags.items.clear.clear.name",
+          "lore": "plugins.tags.views.tags.items.clear.clear.lore"
+        },
+        "empty": {
+          "material": "INK_SACK",
+          "data": 8,
+          "name": "plugins.tags.views.tags.items.clear.empty.name",
+          "lore": "plugins.tags.views.tags.items.clear.empty.lore"
+        }
+      }
+    }
+  }
+}
