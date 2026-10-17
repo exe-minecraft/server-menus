@@ -1,0 +1,21 @@
+{
+  "size": 6,
+  "title": "plugins.weapons.views.history.title",
+  "lang": "plugins.weapons.views.history",
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    "< . . . t . . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "t": {
+      "bind": "truncated"
+    }
+  }
+}
