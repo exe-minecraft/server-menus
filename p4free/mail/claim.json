@@ -1,0 +1,25 @@
+{
+  "size": 6,
+  "title": "plugins.mail.views.claim.title",
+  "lang": "plugins.mail.views.claim",
+  "structure": [
+    "o o o o o o o o o",
+    "o o o o o o o o o",
+    "o o o o o o o o o",
+    "o o o o o o o o o",
+    "< . . . . . . . >",
+    "b . . . c . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "c": {
+      "bind": "claim",
+      "material": "CHEST"
+    },
+    "b": {
+      "bind": "back"
+    }
+  }
+}

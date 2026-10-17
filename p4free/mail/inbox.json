@@ -1,0 +1,20 @@
+{
+  "size": 5,
+  "title": "plugins.mail.views.inbox.title",
+  "lang": "plugins.mail.views.inbox",
+  "structure": [
+    ". . . . e . . . .",
+    ". o o o o o o o .",
+    "< o o o o o o o >",
+    ". o o o o o o o .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "e": {
+      "bind": "empty"
+    }
+  }
+}
