@@ -3,7 +3,7 @@
   "title": "plugins.duels.views.inventory.title",
   "lang": "plugins.duels.views.inventory",
   "structure": [
-    "a a a a . . . h e",
+    "a a a a p . n h e",
     "i i i i i i i i i",
     "i i i i i i i i i",
     "i i i i i i i i i",
@@ -21,7 +21,25 @@
     },
     "h": {
       "bind": "health",
-      "material": "SPECKLED_MELON"
+      "states": {
+        "alive": {
+          "material": "SPECKLED_MELON",
+          "name": "plugins.duels.views.inventory.items.health.name",
+          "lore": "plugins.duels.views.inventory.items.health.lore"
+        },
+        "dead": {
+          "material": "SKULL_ITEM",
+          "data": 0
+        }
+      }
+    },
+    "p": {
+      "bind": "previous",
+      "material": "ARROW"
+    },
+    "n": {
+      "bind": "next",
+      "material": "ARROW"
     },
     "e": {
       "bind": "effects",
