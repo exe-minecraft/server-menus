@@ -4,7 +4,7 @@
   "lang": "plugins.arena-events.views.primary",
   "structure": [
     ". . . . . . . . .",
-    ". . r . c . e . .",
+    ". r . c . e . s .",
     ". . . . . . . . ."
   ],
   "ingredients": {
@@ -15,6 +15,10 @@
     "c": {
       "bind": "commands",
       "material": "BOOK_AND_QUILL"
+    },
+    "s": {
+      "bind": "history",
+      "material": "BOOK"
     },
     "e": {
       "bind": "event",
