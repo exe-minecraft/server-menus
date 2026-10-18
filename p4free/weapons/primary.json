@@ -1,13 +1,14 @@
 {
-  "size": 5,
+  "size": 6,
   "title": "plugins.weapons.views.weapon.title",
   "lang": "plugins.weapons.views.weapon",
   "structure": [
     ". . . . . . . . .",
     ". w . o o o o o .",
     ". p . o o o o o .",
-    ". r . . . . . t .",
-    ". d . . . . . . ."
+    ". t . . . . . . .",
+    ". . . . . . . . .",
+    "d . . i b r . . k"
   ],
   "ingredients": {
     "o": "content",
@@ -34,9 +35,25 @@
     },
     "t": {
       "bind": "top",
-      "material": "PAPER",
+      "material": "DIAMOND",
       "name": "plugins.weapons.views.weapon.items.5.name",
       "lore": "plugins.weapons.views.weapon.items.5.lore"
+    },
+    "i": {
+      "material": "BOOK",
+      "name": "plugins.weapons.views.weapon.items.12.name",
+      "lore": "plugins.weapons.views.weapon.items.12.lore"
+    },
+    "b": {
+      "material": "GOLD_INGOT",
+      "name": "plugins.weapons.views.weapon.items.13.name",
+      "lore": "plugins.weapons.views.weapon.items.13.lore"
+    },
+    "k": {
+      "bind": "tokens-top",
+      "material": "BEACON",
+      "name": "plugins.weapons.views.weapon.items.14.name",
+      "lore": "plugins.weapons.views.weapon.items.14.lore"
     }
   }
 }

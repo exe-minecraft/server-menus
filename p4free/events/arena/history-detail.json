@@ -1,0 +1,38 @@
+{
+  "size": 5,
+  "title": "plugins.arena-events.views.history-detail.title",
+  "lang": "plugins.arena-events.views.history-detail",
+  "structure": [
+    ". . . . o . . . .",
+    ". . w . . . m . .",
+    ". . . . . . . . .",
+    ". . . k . h . . .",
+    ". . . . b . . . ."
+  ],
+  "ingredients": {
+    "o": {
+      "bind": "overview",
+      "material": "WATCH"
+    },
+    "w": {
+      "bind": "winner",
+      "material": "GOLD_BLOCK"
+    },
+    "m": {
+      "bind": "killer",
+      "material": "DIAMOND_SWORD"
+    },
+    "k": {
+      "bind": "kills",
+      "material": "BONE"
+    },
+    "h": {
+      "bind": "hitter",
+      "material": "IRON_SWORD"
+    },
+    "b": {
+      "bind": "back",
+      "material": "ARROW"
+    }
+  }
+}
