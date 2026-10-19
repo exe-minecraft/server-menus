@@ -2,6 +2,11 @@
   "size": 5,
   "title": "plugins.clans.views.member-invites.title",
   "lang": "plugins.clans.views.member-invites",
+  "overlay": {
+    "material": "WEB",
+    "name": "plugins.clans.items.empty-item.name",
+    "lore": "plugins.clans.items.empty-item.lore"
+  },
   "structure": [
     ". . . . . . . . .",
     ". o o o o o o o .",
