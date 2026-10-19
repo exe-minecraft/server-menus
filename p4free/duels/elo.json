@@ -1,0 +1,23 @@
+{
+  "size": 6,
+  "title": "plugins.duels.views.elo.title",
+  "lang": "plugins.duels.views.elo",
+  "structure": [
+    ". . . . s . . . .",
+    ". o o o o o o o .",
+    ". . o o o o o . .",
+    ". . . . o . . . .",
+    ". . . . . . . . .",
+    ". . . . r . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "s": {
+      "bind": "stats"
+    },
+    "r": {
+      "bind": "ranking",
+      "material": "NETHER_STAR"
+    }
+  }
+}
