@@ -1,0 +1,27 @@
+{
+  "size": 6,
+  "title": "plugins.duels.views.elo-history.title",
+  "lang": "plugins.duels.views.history",
+  "structure": [
+    ". . . . s . . . .",
+    ". . . . . . . . .",
+    ". . . . e . . . .",
+    ". . . . . . . . .",
+    ". . . . . . . . .",
+    ". . f . v . . . ."
+  ],
+  "ingredients": {
+    "s": {
+      "bind": "summary"
+    },
+    "e": {
+      "bind": "empty"
+    },
+    "f": {
+      "bind": "filter"
+    },
+    "v": {
+      "bind": "back"
+    }
+  }
+}

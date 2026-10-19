@@ -8,7 +8,7 @@
     ". . o o o o o . .",
     ". . . . o . . . .",
     ". . . . . . . . .",
-    ". . . h . r . t ."
+    ". . . h . r . . ."
   ],
   "ingredients": {
     "o": "content",
@@ -21,10 +21,6 @@
     },
     "h": {
       "bind": "history",
-      "material": "BOOK"
-    },
-    "t": {
-      "bind": "history-duo",
       "material": "BOOK"
     }
   }
