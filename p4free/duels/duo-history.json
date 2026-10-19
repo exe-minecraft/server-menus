@@ -1,0 +1,27 @@
+{
+  "size": 6,
+  "title": "plugins.duels.views.duo-history.title",
+  "lang": "plugins.duels.views.duo-history",
+  "structure": [
+    ". . . . s . . . .",
+    ". o o o o o o o .",
+    "< o o o o o o o >",
+    ". o o o o o o o .",
+    ". . . . e . . . .",
+    ". . . . v . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "s": {
+      "bind": "summary"
+    },
+    "e": {
+      "bind": "empty"
+    },
+    "v": {
+      "bind": "back"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "size": 4,
+  "title": "plugins.duels.views.cxc-menu.title",
+  "lang": "plugins.duels.views.cxc-menu",
+  "update-interval": 20,
+  "structure": [
+    ". . . . c . . . .",
+    ". . . . . . . . .",
+    ". . d . i . a . .",
+    ". . h . r . k . ."
+  ],
+  "ingredients": {
+    "c": {
+      "bind": "clan",
+      "states": {
+        "none": {
+          "material": "BARRIER"
+        },
+        "member": {
+          "material": "BANNER",
+          "data": 15
+        }
+      }
+    },
+    "d": {
+      "bind": "challenge",
+      "material": "DIAMOND_SWORD"
+    },
+    "i": {
+      "bind": "invites",
+      "states": {
+        "none": {
+          "material": "PAPER"
+        },
+        "received": {
+          "material": "PAPER",
+          "glowing": true
+        },
+        "sent": {
+          "material": "MAP"
+        }
+      }
+    },
+    "a": {
+      "bind": "cabin",
+      "material": "EYE_OF_ENDER"
+    },
+    "h": {
+      "bind": "history",
+      "material": "BOOK"
+    },
+    "r": {
+      "bind": "ranking",
+      "material": "NETHER_STAR"
+    },
+    "k": {
+      "bind": "commands",
+      "material": "BOOK_AND_QUILL"
+    }
+  }
+}
