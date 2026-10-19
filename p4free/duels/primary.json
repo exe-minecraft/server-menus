@@ -5,7 +5,7 @@
   "update-interval": 20,
   "structure": [
     ". . . . s . . . .",
-    ". . . . . . . . .",
+    ". . . . y . . . .",
     ". o . t . d . p .",
     ". c . k . r . h ."
   ],
@@ -16,15 +16,25 @@
     "o": {
       "bind": "queue-1v1",
       "states": {
-        "idle": { "material": "DIAMOND_SWORD" },
-        "queued": { "material": "DIAMOND_SWORD", "glowing": true }
+        "idle": {
+          "material": "DIAMOND_SWORD"
+        },
+        "queued": {
+          "material": "DIAMOND_SWORD",
+          "glowing": true
+        }
       }
     },
     "t": {
       "bind": "queue-2v2",
       "states": {
-        "idle": { "material": "DIAMOND_SWORD" },
-        "queued": { "material": "DIAMOND_SWORD", "glowing": true }
+        "idle": {
+          "material": "DIAMOND_SWORD"
+        },
+        "queued": {
+          "material": "DIAMOND_SWORD",
+          "glowing": true
+        }
       }
     },
     "d": {
@@ -34,8 +44,13 @@
     "p": {
       "bind": "party",
       "states": {
-        "none": { "material": "CAKE" },
-        "member": { "material": "CAKE", "glowing": true }
+        "none": {
+          "material": "CAKE"
+        },
+        "member": {
+          "material": "CAKE",
+          "glowing": true
+        }
       }
     },
     "c": {
@@ -52,6 +67,10 @@
     },
     "h": {
       "bind": "commands",
+      "material": "BOOK"
+    },
+    "y": {
+      "bind": "history",
       "material": "BOOK"
     }
   }
