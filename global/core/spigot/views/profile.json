@@ -4,15 +4,15 @@
   "lang": "plugins.core.views.profile",
   "structure": [
     ". . . . . . . . .",
-    ". p d . . . . . .",
+    ". p d a . . . . .",
     ". . . . . . . . .",
-    ". . a c s . i g .",
+    ". . . c s . i g .",
     ". . . . . . . . ."
   ],
   "ingredients": {
     "p": { "bind": "profile" },
     "d": { "bind": "discord" },
-    "a": { "bind": "achievements", "material": "EXP_BOTTLE", "name": "plugins.core.views.profile.items.achievements.name", "lore": "plugins.core.views.profile.items.achievements.lore" },
+    "a": { "bind": "achievements", "material": "NETHER_STAR", "name": "plugins.core.views.profile.items.achievements.name", "lore": "plugins.core.views.profile.items.achievements.lore" },
     "c": { "bind": "purchases" },
     "s": { "bind": "store", "material": "DIAMOND", "name": "plugins.core.views.profile.items.store.name", "lore": "plugins.core.views.profile.items.store.lore" },
     "i": { "bind": "ignores", "material": "PAPER", "name": "plugins.core.views.profile.items.ignores.name", "lore": "plugins.core.views.profile.items.ignores.lore" },
