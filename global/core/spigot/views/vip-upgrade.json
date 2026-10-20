@@ -1,0 +1,21 @@
+{
+  "size": 4,
+  "title": "plugins.core.views.vip-upgrade.title",
+  "lang": "plugins.core.views.vip-upgrade",
+  "structure": [". . . . . . . . .", ". . i . . . u . .", ". . . . . . . . .", ". . . s . b . . ."],
+  "ingredients": {
+    "i": { "bind": "info", "material": "NAME_TAG" },
+    "u": { "bind": "upgrade", "material": "DIAMOND" },
+    "s": {
+      "bind": "store",
+      "material": "BOOK",
+      "name": "plugins.core.views.vip-upgrade.items.store.name",
+      "lore": "plugins.core.views.vip-upgrade.items.store.lore"
+    },
+    "b": {
+      "bind": "close",
+      "material": "BARRIER",
+      "name": "plugins.core.views.vip-upgrade.items.close.name"
+    }
+  }
+}
