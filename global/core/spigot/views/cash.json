@@ -1,0 +1,13 @@
+{
+  "size": 5,
+  "title": "plugins.core.views.cash.title",
+  "lang": "plugins.core.views.cash",
+  "structure": [". . . . s . . . .", ". o o o o o o o .", ". o o o o o o o .", ". o o o o o o o .", "< . . . b . . . >"],
+  "ingredients": {
+    "o": "content",
+    "s": { "bind": "balance", "material": "GOLD_INGOT" },
+    "<": { "bind": "previous", "material": "ARROW" },
+    ">": { "bind": "next", "material": "ARROW" },
+    "b": { "bind": "close", "material": "BARRIER" }
+  }
+}
