@@ -2,11 +2,12 @@
   "size": 5,
   "title": "plugins.core.views.purchases.title",
   "lang": "plugins.core.views.purchases",
-  "structure": [". . . . . . . . .", ". o o o o o o o .", ". o o o o o o o .", ". o o o o o o o .", "< . . . b . . . >"],
+  "structure": [". . . . . . . . .", ". o o o o o o o .", ". o o o o o o o .", ". o o o o o o o .", "< . . f . b . . >"],
   "ingredients": {
     "o": "content",
     "<": { "bind": "previous", "material": "ARROW" },
     ">": { "bind": "next", "material": "ARROW" },
+    "f": { "bind": "filter" },
     "b": { "bind": "close", "material": "BARRIER" }
   }
 }
