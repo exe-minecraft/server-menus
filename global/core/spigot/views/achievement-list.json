@@ -9,12 +9,17 @@
     ". o o o o o o o .",
     "< o o o o o o o >",
     ". o o o o o o o .",
-    ". . . . . . . . ."
+    ". . . . b . . . ."
   ],
   "ingredients": {
     "o": "content",
     "<": "page-previous",
     ">": "page-next",
-    "s": { "bind": "summary" }
+    "s": {
+      "bind": "summary"
+    },
+    "b": {
+      "bind": "back"
+    }
   }
 }
