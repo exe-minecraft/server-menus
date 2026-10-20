@@ -4,11 +4,12 @@
   "lang": "plugins.core.views.player-profile",
   "structure": [
     ". . . . . . . . .",
-    ". . . p . d . . .",
+    ". . p . d . a . .",
     ". . . . . . . . ."
   ],
   "ingredients": {
     "p": { "bind": "profile" },
-    "d": { "bind": "discord" }
+    "d": { "bind": "discord" },
+    "a": { "bind": "achievements", "material": "DIAMOND", "name": "plugins.core.views.player-profile.items.achievements-public.name", "lore": "plugins.core.views.player-profile.items.achievements-public.lore" }
   }
 }
