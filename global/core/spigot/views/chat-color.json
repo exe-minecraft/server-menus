@@ -1,0 +1,22 @@
+{
+  "size": 5,
+  "title": "plugins.core.views.chat-color.title",
+  "lang": "plugins.core.views.chat-color",
+  "structure": [
+    ". . . . . . . . .",
+    ". c c c c c c c .",
+    ". . c c c c c . .",
+    ". . . c c c . . .",
+    ". . . . r . . . ."
+  ],
+  "ingredients": {
+    "c": "content",
+    "r": {
+      "bind": "reset",
+      "states": {
+        "selected": { "material": "PAPER", "glowing": true },
+        "available": { "material": "PAPER" }
+      }
+    }
+  }
+}
