@@ -1,0 +1,20 @@
+{
+  "size": 6,
+  "title": "plugins.core.views.achievement-list.title",
+  "lang": "plugins.core.views.achievement-list",
+  "content-state": true,
+  "structure": [
+    ". . . . s . . . .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    "< o o o o o o o >",
+    ". o o o o o o o .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "s": { "bind": "summary" }
+  }
+}
