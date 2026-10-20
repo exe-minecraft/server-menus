@@ -1,0 +1,20 @@
+{
+  "size": 4,
+  "title": "plugins.core.views.player-profile.title",
+  "lang": "plugins.core.views.player-profile",
+  "structure": [
+    ". . . . p . . . .",
+    ". . . . . . . . .",
+    ". d . a . c . s .",
+    ". . . i . g . . ."
+  ],
+  "ingredients": {
+    "p": { "bind": "profile" },
+    "d": { "bind": "discord" },
+    "a": { "bind": "achievements", "material": "DIAMOND", "name": "plugins.core.views.player-profile.items.achievements.name", "lore": "plugins.core.views.player-profile.items.achievements.lore" },
+    "c": { "bind": "purchases" },
+    "s": { "bind": "store", "material": "GOLD_INGOT", "name": "plugins.core.views.player-profile.items.store.name", "lore": "plugins.core.views.player-profile.items.store.lore" },
+    "i": { "bind": "ignores", "material": "PAPER", "name": "plugins.core.views.player-profile.items.ignores.name", "lore": "plugins.core.views.player-profile.items.ignores.lore" },
+    "g": { "bind": "preferences", "material": "BOOK", "name": "plugins.core.views.player-profile.items.preferences.name", "lore": "plugins.core.views.player-profile.items.preferences.lore" }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "size": 3,
+  "title": "plugins.core.views.player-profile.title-public",
+  "lang": "plugins.core.views.player-profile",
+  "structure": [
+    ". . . . . . . . .",
+    ". . . p . d . . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "p": { "bind": "profile" },
+    "d": { "bind": "discord" }
+  }
+}
