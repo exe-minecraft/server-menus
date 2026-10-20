@@ -1,0 +1,20 @@
+{
+  "size": 5,
+  "title": "plugins.core.views.profile.title",
+  "lang": "plugins.core.views.profile",
+  "structure": [
+    ". . . . . . . . .",
+    ". p d . . . . . .",
+    ". . . . . . . . .",
+    ". . . c s . i g .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "p": { "bind": "profile" },
+    "d": { "bind": "discord" },
+    "c": { "bind": "purchases" },
+    "s": { "bind": "store", "material": "DIAMOND", "name": "plugins.core.views.profile.items.store.name", "lore": "plugins.core.views.profile.items.store.lore" },
+    "i": { "bind": "ignores", "material": "PAPER", "name": "plugins.core.views.profile.items.ignores.name", "lore": "plugins.core.views.profile.items.ignores.lore" },
+    "g": { "bind": "preferences", "material": "BOOK", "name": "plugins.core.views.profile.items.preferences.name", "lore": "plugins.core.views.profile.items.preferences.lore" }
+  }
+}
