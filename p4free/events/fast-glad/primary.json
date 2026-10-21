@@ -4,7 +4,7 @@
   "lang": "plugins.arena-events.views.primary",
   "structure": [
     ". . . . . . . . .",
-    ". r . c . e . s .",
+    ". r c . e . s k .",
     ". . . . . . . . ."
   ],
   "ingredients": {
@@ -19,6 +19,10 @@
     "s": {
       "bind": "history",
       "material": "BOOK"
+    },
+    "k": {
+      "bind": "kit",
+      "material": "CHEST"
     },
     "e": {
       "bind": "event",
