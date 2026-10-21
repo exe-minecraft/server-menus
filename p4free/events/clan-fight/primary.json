@@ -4,7 +4,7 @@
   "lang": "plugins.arena-events.views.primary",
   "structure": [
     ". . . . . . . . .",
-    ". r c . e . s k .",
+    ". r c . e k s m .",
     ". . . . . . . . ."
   ],
   "ingredients": {
@@ -19,6 +19,10 @@
     "s": {
       "bind": "history",
       "material": "BOOK"
+    },
+    "m": {
+      "bind": "maps",
+      "material": "MAP"
     },
     "k": {
       "bind": "kit",
