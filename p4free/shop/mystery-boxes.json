@@ -4,10 +4,10 @@
   "lang": "plugins.shop.views.mystery-boxes",
   "structure": [
     "# # # # p # # # #",
+    "# . . . . . . . #",
     "# . . o o o . . #",
     "# . . o o o . . #",
-    "# . . o o o . . #",
-    "# . . o o o . . #",
+    "# . . . . . . . #",
     "# # # # b # # # #"
   ],
   "ingredients": {
