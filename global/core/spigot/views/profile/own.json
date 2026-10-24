@@ -4,11 +4,12 @@
   "lang": "plugins.core.views.player-profile",
   "structure": [
     ". . . . p . . . .",
-    ". . . . . . . . .",
+    ". . . . e . . . .",
     ". d . a . c . s .",
     ". . . i . g . . ."
   ],
   "ingredients": {
+    "e": { "bind": "events", "material": "DIAMOND_SWORD", "name": "plugins.core.views.player-profile.items.events.name", "lore": "plugins.core.views.player-profile.items.events.lore" },
     "p": { "bind": "profile" },
     "d": { "bind": "discord" },
     "a": { "bind": "achievements", "material": "DIAMOND", "name": "plugins.core.views.player-profile.items.achievements.name", "lore": "plugins.core.views.player-profile.items.achievements.lore" },
