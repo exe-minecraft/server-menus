@@ -1,0 +1,20 @@
+{
+  "size": 5,
+  "title": "plugins.core.views.player-events.title",
+  "lang": "plugins.core.views.player-events",
+  "structure": [
+    ". . . . s . . . .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    "< . . f . b . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "s": { "bind": "summary" },
+    "<": { "bind": "previous", "material": "ARROW" },
+    ">": { "bind": "next", "material": "ARROW" },
+    "f": { "bind": "filter" },
+    "b": { "bind": "back" }
+  }
+}
