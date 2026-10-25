@@ -6,7 +6,7 @@
   "structure": [
     ". . . . c . . . .",
     ". . . . . . . . .",
-    ". . d . i . a . .",
+    ". d . i . a . m .",
     ". . h . r . k . ."
   ],
   "ingredients": {
@@ -44,6 +44,10 @@
     "a": {
       "bind": "cabin",
       "material": "EYE_OF_ENDER"
+    },
+    "m": {
+      "bind": "maps",
+      "material": "EMPTY_MAP"
     },
     "h": {
       "bind": "history",
