@@ -45,12 +45,12 @@
       "bind": "exit",
       "states": {
         "disband": {
-          "material": "ACACIA_DOOR",
+          "material": "ACACIA_DOOR_ITEM",
           "name": "plugins.clans.views.clan-primary.items.4.name",
           "lore": "plugins.clans.views.clan-primary.items.4.lore"
         },
         "leave": {
-          "material": "ACACIA_DOOR",
+          "material": "ACACIA_DOOR_ITEM",
           "name": "plugins.clans.views.clan-primary.items.5.name",
           "lore": "plugins.clans.views.clan-primary.items.5.lore"
         }
