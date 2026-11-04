@@ -7,7 +7,7 @@
     ". . . h . b . . .",
     ". . . . . . . . .",
     ". m . t . r . i .",
-    ". . . . . . . . x"
+    ". . . . . . . d x"
   ],
   "ingredients": {
     "h": {
@@ -40,6 +40,16 @@
       "material": "BOOK",
       "name": "plugins.clans.views.clan-primary.items.3.name",
       "lore": "plugins.clans.views.clan-primary.items.3.lore"
+    },
+    "d": {
+      "bind": "trusted-disband",
+      "states": {
+        "shown": {
+          "material": "TNT",
+          "name": "plugins.clans.views.clan-primary.items.6.name",
+          "lore": "plugins.clans.views.clan-primary.items.6.lore"
+        }
+      }
     },
     "x": {
       "bind": "exit",
