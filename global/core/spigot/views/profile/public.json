@@ -3,12 +3,13 @@
   "title": "plugins.core.views.player-profile.title-public",
   "lang": "plugins.core.views.player-profile",
   "structure": [
-    ". . . . . . . . .",
-    ". p . d . a . e .",
+    ". . . . p . . . .",
+    ". d . a . e . r .",
     ". . . . . . . . ."
   ],
   "ingredients": {
     "e": { "bind": "events", "material": "DIAMOND_SWORD", "name": "plugins.core.views.player-profile.items.events-public.name", "lore": "plugins.core.views.player-profile.items.events-public.lore" },
+    "r": { "bind": "records", "material": "NETHER_STAR", "name": "plugins.core.views.player-profile.items.records-public.name", "lore": "plugins.core.views.player-profile.items.records-public.lore" },
     "p": { "bind": "profile" },
     "d": { "bind": "discord" },
     "a": { "bind": "achievements", "material": "DIAMOND", "name": "plugins.core.views.player-profile.items.achievements-public.name", "lore": "plugins.core.views.player-profile.items.achievements-public.lore" }
