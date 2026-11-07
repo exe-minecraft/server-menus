@@ -5,10 +5,11 @@
   "update-interval": 20,
   "structure": [
     ". . . . . . . . .",
-    ". . . . 4 . . . .",
+    ". . . 4 . 5 . . .",
     ". . . . . . . . ."
   ],
   "ingredients": {
-    "4": { "bind": "p4free" }
+    "4": { "bind": "p4free" },
+    "5": { "bind": "rankup" }
   }
 }
