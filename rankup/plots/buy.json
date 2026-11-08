@@ -1,0 +1,18 @@
+{
+  "size": 3,
+  "title": "plugins.plots.views.buy.title",
+  "lang": "plugins.plots.views.buy",
+  "structure": [
+    ". . . . . . . . .",
+    ". . b . . . o . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "b": {
+      "bind": "buy"
+    },
+    "o": {
+      "bind": "offer"
+    }
+  }
+}

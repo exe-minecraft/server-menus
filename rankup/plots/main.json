@@ -1,0 +1,21 @@
+{
+  "size": 3,
+  "title": "plugins.plots.views.main.title",
+  "lang": "plugins.plots.views.main",
+  "structure": [
+    ". . . . . . . . .",
+    ". . m . r . s . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "m": {
+      "bind": "my-plots"
+    },
+    "r": {
+      "bind": "real-estate"
+    },
+    "s": {
+      "bind": "storage"
+    }
+  }
+}

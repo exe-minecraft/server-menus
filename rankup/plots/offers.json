@@ -1,0 +1,19 @@
+{
+  "size": 6,
+  "title": "plugins.plots.views.offers.title",
+  "lang": "plugins.plots.views.offers",
+  "content-state": true,
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    "< . . . . . . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next"
+  }
+}

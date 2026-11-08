@@ -1,0 +1,20 @@
+{
+  "size": 3,
+  "lang": "plugins.plots.views.confirmation",
+  "structure": [
+    ". . . . . . . . .",
+    ". . a . s . d . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "a": {
+      "bind": "accept"
+    },
+    "s": {
+      "bind": "subject"
+    },
+    "d": {
+      "bind": "deny"
+    }
+  }
+}

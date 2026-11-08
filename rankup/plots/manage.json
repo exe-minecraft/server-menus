@@ -1,0 +1,27 @@
+{
+  "size": 3,
+  "title": "plugins.plots.views.manage.title",
+  "lang": "plugins.plots.views.manage",
+  "structure": [
+    ". . . . . . . . .",
+    ". g . r . c . v .",
+    ". . . . x . . . ."
+  ],
+  "ingredients": {
+    "g": {
+      "bind": "manage"
+    },
+    "r": {
+      "bind": "rename"
+    },
+    "c": {
+      "bind": "clear"
+    },
+    "v": {
+      "bind": "sell"
+    },
+    "x": {
+      "bind": "delete"
+    }
+  }
+}

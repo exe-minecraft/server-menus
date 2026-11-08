@@ -1,0 +1,21 @@
+{
+  "size": 3,
+  "title": "plugins.plots.views.sell.title",
+  "lang": "plugins.plots.views.sell",
+  "structure": [
+    ". . . . . . . . .",
+    ". . c . . . o . .",
+    ". . . . k . . . ."
+  ],
+  "ingredients": {
+    "c": {
+      "bind": "currency"
+    },
+    "o": {
+      "bind": "offers"
+    },
+    "k": {
+      "bind": "confirm"
+    }
+  }
+}

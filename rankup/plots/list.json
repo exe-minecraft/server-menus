@@ -1,0 +1,19 @@
+{
+  "size": 3,
+  "title": "plugins.plots.views.list.title",
+  "lang": "plugins.plots.views.list",
+  "content-state": true,
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    "< . . . a . . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "a": {
+      "bind": "acquire"
+    }
+  }
+}

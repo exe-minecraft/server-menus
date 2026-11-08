@@ -1,0 +1,19 @@
+{
+  "size": 3,
+  "title": "plugins.plots.views.members.title",
+  "lang": "plugins.plots.views.members",
+  "content-state": true,
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    "< . . . a . . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "a": {
+      "bind": "add"
+    }
+  }
+}
