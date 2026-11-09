@@ -1,0 +1,19 @@
+{
+  "size": 6,
+  "title": "plugins.weapons.views.drops.title",
+  "lang": "plugins.weapons.views.drops",
+  "structure": [
+    ". . . . . . . . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . . . . . . . .",
+    ". . . . v . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "v": {
+      "bind": "back"
+    }
+  }
+}
