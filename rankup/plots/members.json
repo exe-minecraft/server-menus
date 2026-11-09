@@ -1,12 +1,15 @@
 {
-  "size": 3,
+  "size": 6,
   "title": "plugins.plots.views.members.title",
   "lang": "plugins.plots.views.members",
   "content-state": true,
   "structure": [
     ". . . . . . . . .",
     ". o o o o o o o .",
-    "< . . . a . . . >"
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    "< . . b . a . . >"
   ],
   "ingredients": {
     "o": "content",
@@ -14,6 +17,9 @@
     ">": "page-next",
     "a": {
       "bind": "add"
+    },
+    "b": {
+      "bind": "back"
     }
   }
 }

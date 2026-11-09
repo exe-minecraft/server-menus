@@ -9,11 +9,14 @@
     ". o o o o o o o .",
     ". o o o o o o o .",
     ". o o o o o o o .",
-    "< . . . . . . . >"
+    "< . . . b . . . >"
   ],
   "ingredients": {
     "o": "content",
     "<": "page-previous",
-    ">": "page-next"
+    ">": "page-next",
+    "b": {
+      "bind": "back"
+    }
   }
 }
