@@ -1,0 +1,18 @@
+{
+  "size": 3,
+  "title": "plugins.virtual-chests.views.menu.title",
+  "lang": "plugins.virtual-chests.views.menu",
+  "structure": [
+    ". . . . . . . . .",
+    ". . e c c c c . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "e": {
+      "bind": "ender-chest"
+    },
+    "c": {
+      "content": "chests"
+    }
+  }
+}
