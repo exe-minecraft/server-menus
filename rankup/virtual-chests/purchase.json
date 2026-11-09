@@ -1,0 +1,20 @@
+{
+  "size": 3,
+  "lang": "plugins.virtual-chests.views.purchase",
+  "structure": [
+    ". . . . s . . . .",
+    ". . . . . . . . .",
+    ". . . a . d . . ."
+  ],
+  "ingredients": {
+    "a": {
+      "bind": "accept"
+    },
+    "s": {
+      "bind": "subject"
+    },
+    "d": {
+      "bind": "deny"
+    }
+  }
+}
