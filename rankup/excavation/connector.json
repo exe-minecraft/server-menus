@@ -1,0 +1,24 @@
+{
+  "size": 3,
+  "title": "plugins.excavation.views.connector.title",
+  "lang": "plugins.excavation.views.connector",
+  "structure": [
+    ". . . . . . . . .",
+    ". . t . . . r . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "t": {
+      "bind": "teleport",
+      "material": "ENDER_PEARL",
+      "name": "plugins.excavation.views.connector.items.teleport.name",
+      "lore": "plugins.excavation.views.connector.items.teleport.lore"
+    },
+    "r": {
+      "bind": "ranking",
+      "material": "GOLD_PICKAXE",
+      "name": "plugins.excavation.views.connector.items.ranking.name",
+      "lore": "plugins.excavation.views.connector.items.ranking.lore"
+    }
+  }
+}
