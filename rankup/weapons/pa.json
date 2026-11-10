@@ -1,11 +1,12 @@
 {
-  "size": 5,
+  "size": 6,
   "title": "plugins.weapons.pa.views.weapon.title",
   "lang": "plugins.weapons.pa.views.weapon",
   "structure": [
     ". . . . . . . . .",
     ". w . o o o o o .",
     ". t . . o o o . .",
+    ". . . . . . . . .",
     ". . . . . . . . .",
     "d . . i b r . . k"
   ],

@@ -1,0 +1,53 @@
+{
+  "size": 6,
+  "title": "plugins.weapons.enxada.views.weapon.title",
+  "lang": "plugins.weapons.enxada.views.weapon",
+  "structure": [
+    ". . . . . . . . .",
+    ". w . o o o o o .",
+    ". t . o . . . . .",
+    ". . . . . . . . .",
+    ". . . . . . . . .",
+    "d . . i b r . . k"
+  ],
+  "ingredients": {
+    "o": "content",
+    "w": {
+      "bind": "weapon"
+    },
+    "r": {
+      "bind": "repair",
+      "material": "ANVIL",
+      "name": "plugins.weapons.enxada.views.weapon.items.3.name",
+      "lore": "plugins.weapons.enxada.views.weapon.items.3.lore"
+    },
+    "d": {
+      "bind": "delete",
+      "material": "BARRIER",
+      "name": "plugins.weapons.enxada.views.weapon.items.7.name",
+      "lore": "plugins.weapons.enxada.views.weapon.items.7.lore"
+    },
+    "t": {
+      "bind": "top",
+      "material": "BEACON",
+      "name": "plugins.weapons.enxada.views.weapon.items.5.name",
+      "lore": "plugins.weapons.enxada.views.weapon.items.5.lore"
+    },
+    "i": {
+      "material": "BOOK",
+      "name": "plugins.weapons.enxada.views.weapon.items.12.name",
+      "lore": "plugins.weapons.enxada.views.weapon.items.12.lore"
+    },
+    "b": {
+      "material": "EMERALD",
+      "name": "plugins.weapons.enxada.views.weapon.items.13.name",
+      "lore": "plugins.weapons.enxada.views.weapon.items.13.lore"
+    },
+    "k": {
+      "bind": "tokens-top",
+      "material": "GOLD_INGOT",
+      "name": "plugins.weapons.enxada.views.weapon.items.14.name",
+      "lore": "plugins.weapons.enxada.views.weapon.items.14.lore"
+    }
+  }
+}
