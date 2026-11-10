@@ -1,0 +1,46 @@
+{
+  "size": 6,
+  "title": "plugins.perks.views.perks.title",
+  "lang": "plugins.perks.views.perks",
+  "update-interval": 20,
+  "structure": [
+    ". . . . p . . . .",
+    ". . . . . . . . .",
+    ". . a g b v s . .",
+    ". . . . r . . . .",
+    ". . . q f m . . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "p": {
+      "bind": "profile"
+    },
+    "a": {
+      "bind": "attack"
+    },
+    "g": {
+      "bind": "regeneration"
+    },
+    "b": {
+      "bind": "blacksmith"
+    },
+    "v": {
+      "bind": "speed"
+    },
+    "s": {
+      "bind": "suppression"
+    },
+    "r": {
+      "bind": "resistance"
+    },
+    "q": {
+      "bind": "alchemist"
+    },
+    "f": {
+      "bind": "farmer"
+    },
+    "m": {
+      "bind": "slayer"
+    }
+  }
+}
