@@ -6,7 +6,7 @@
   "structure": [
     ". . . . h . . . .",
     ". . . . . . . . .",
-    ". w . c . k . r .",
+    ". . . . k . . . .",
     ". . . . . . . . .",
     ". . s . . . f . .",
     ". . . . . . . . ."
@@ -15,17 +15,8 @@
     "h": {
       "bind": "owner"
     },
-    "w": {
-      "bind": "wart"
-    },
-    "c": {
-      "bind": "cane"
-    },
     "k": {
       "bind": "cactus"
-    },
-    "r": {
-      "bind": "carrot"
     },
     "s": {
       "bind": "sell-all"
