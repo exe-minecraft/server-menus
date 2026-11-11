@@ -1,0 +1,25 @@
+{
+  "size": 6,
+  "title": "plugins.farms.views.members.title",
+  "lang": "plugins.farms.views.members",
+  "content-state": true,
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    "< . . b . a . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "a": {
+      "bind": "add"
+    },
+    "b": {
+      "bind": "back"
+    }
+  }
+}

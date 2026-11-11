@@ -1,0 +1,37 @@
+{
+  "size": 6,
+  "title": "plugins.farms.views.storage.title",
+  "lang": "plugins.farms.views.storage",
+  "update-interval": 20,
+  "structure": [
+    ". . . . h . . . .",
+    ". . . . . . . . .",
+    ". w . c . k . r .",
+    ". . . . . . . . .",
+    ". . s . . . f . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "h": {
+      "bind": "owner"
+    },
+    "w": {
+      "bind": "wart"
+    },
+    "c": {
+      "bind": "cane"
+    },
+    "k": {
+      "bind": "cactus"
+    },
+    "r": {
+      "bind": "carrot"
+    },
+    "s": {
+      "bind": "sell-all"
+    },
+    "f": {
+      "bind": "farmer"
+    }
+  }
+}
