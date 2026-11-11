@@ -6,7 +6,7 @@
     ". . . . . . . . .",
     ". w . o o o o o .",
     ". t . o . . . . .",
-    ". . . . . . . . .",
+    ". a . . . . . . .",
     ". . . . . . . . .",
     "d . . i b r . . k"
   ],
@@ -32,6 +32,11 @@
       "material": "BEACON",
       "name": "plugins.weapons.enxada.views.weapon.items.5.name",
       "lore": "plugins.weapons.enxada.views.weapon.items.5.lore"
+    },
+    "a": {
+      "material": "ENCHANTED_BOOK",
+      "name": "plugins.weapons.enxada.views.weapon.items.attributes.name",
+      "lore": "plugins.weapons.enxada.views.weapon.items.attributes.lore"
     },
     "i": {
       "material": "BOOK",
