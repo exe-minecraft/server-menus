@@ -1,0 +1,32 @@
+{
+  "size": 4,
+  "title": "plugins.spawners.views.spawner.title",
+  "lang": "plugins.spawners.views.spawner",
+  "update-interval": 20,
+  "structure": [
+    ". . . . . . . . .",
+    ". i . . d u r x .",
+    ". . . . . . . . .",
+    ". . . . s . . . ."
+  ],
+  "ingredients": {
+    "i": {
+      "bind": "info"
+    },
+    "d": {
+      "bind": "drops"
+    },
+    "u": {
+      "bind": "upgrades"
+    },
+    "r": {
+      "bind": "ranking"
+    },
+    "x": {
+      "bind": "remove"
+    },
+    "s": {
+      "bind": "sell-all"
+    }
+  }
+}

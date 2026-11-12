@@ -1,0 +1,16 @@
+{
+  "size": 3,
+  "title": "plugins.spawners.views.specials.title",
+  "lang": "plugins.spawners.views.specials",
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    ". . . . b . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "b": {
+      "bind": "back"
+    }
+  }
+}

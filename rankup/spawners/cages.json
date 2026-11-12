@@ -1,0 +1,21 @@
+{
+  "size": 3,
+  "title": "plugins.spawners.views.cages.title",
+  "lang": "plugins.spawners.views.cages",
+  "structure": [
+    ". . . . . . . . .",
+    ". . . r e l . . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "r": {
+      "bind": "rare"
+    },
+    "e": {
+      "bind": "epic"
+    },
+    "l": {
+      "bind": "legendary"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "size": 3,
+  "title": "plugins.spawners.views.set-spawn.title",
+  "lang": "plugins.spawners.views.set-spawn",
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    "< . . . . . . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next"
+  }
+}

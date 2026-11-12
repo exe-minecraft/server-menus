@@ -1,0 +1,22 @@
+{
+  "size": 6,
+  "title": "plugins.spawners.views.head-history.title",
+  "lang": "plugins.spawners.views.head-history",
+  "content-state": true,
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". . . . . . . . .",
+    ". . . < b > . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "b": {
+      "bind": "back"
+    }
+  }
+}

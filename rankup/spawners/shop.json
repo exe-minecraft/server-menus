@@ -1,0 +1,14 @@
+{
+  "size": 4,
+  "title": "plugins.spawners.views.shop.title",
+  "lang": "plugins.spawners.views.shop",
+  "structure": [
+    ". . . . . . . . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "o": "content"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "size": 4,
+  "title": "plugins.spawners.views.upgrades.title",
+  "lang": "plugins.spawners.views.upgrades",
+  "structure": [
+    ". . . . . . . . .",
+    ". . a m k t e . .",
+    ". . . . . . . . .",
+    ". . . . b . . . ."
+  ],
+  "ingredients": {
+    "a": {
+      "bind": "drop-bonus"
+    },
+    "m": {
+      "bind": "max-stack"
+    },
+    "k": {
+      "bind": "kill-stack"
+    },
+    "t": {
+      "bind": "treasure"
+    },
+    "e": {
+      "bind": "experience"
+    },
+    "b": {
+      "bind": "back"
+    }
+  }
+}

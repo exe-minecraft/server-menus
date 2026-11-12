@@ -1,0 +1,18 @@
+{
+  "size": 5,
+  "title": "plugins.spawners.views.heads.title",
+  "lang": "plugins.spawners.views.heads",
+  "structure": [
+    ". . . . t . . . .",
+    ". . . . . . . . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "t": {
+      "bind": "total"
+    },
+    "o": "content"
+  }
+}
