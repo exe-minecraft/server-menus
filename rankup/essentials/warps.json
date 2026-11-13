@@ -1,0 +1,13 @@
+{
+  "size": 3,
+  "title": "plugins.essentials.views.warps.title",
+  "lang": "plugins.essentials.views.warps",
+  "structure": [
+    ". . . . . . . . .",
+    ". . . o . o . . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "o": "content"
+  }
+}
