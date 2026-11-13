@@ -5,8 +5,8 @@
   "structure": [
     ". . . . . . . . .",
     ". w . o o o o o .",
-    ". t . o . . . . .",
-    ". a . . . . . . .",
+    ". a . o . . . . .",
+    ". . . . . . . . .",
     ". . . . . . . . .",
     "d . . i b r . . k"
   ],
@@ -26,12 +26,6 @@
       "material": "BARRIER",
       "name": "plugins.weapons.enxada.views.weapon.items.7.name",
       "lore": "plugins.weapons.enxada.views.weapon.items.7.lore"
-    },
-    "t": {
-      "bind": "top",
-      "material": "BEACON",
-      "name": "plugins.weapons.enxada.views.weapon.items.5.name",
-      "lore": "plugins.weapons.enxada.views.weapon.items.5.lore"
     },
     "a": {
       "material": "ENCHANTED_BOOK",
