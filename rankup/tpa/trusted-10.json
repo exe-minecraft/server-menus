@@ -1,0 +1,19 @@
+{
+  "size": 6,
+  "title": "plugins.tpa.views.trusted.title",
+  "lang": "plugins.tpa.views.trusted",
+  "structure": [
+    ". . . . . . . . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . . . . . . . .",
+    ". . . . a . . . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "a": {
+      "bind": "add"
+    }
+  }
+}
