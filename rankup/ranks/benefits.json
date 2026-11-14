@@ -1,0 +1,15 @@
+{
+  "size": 3,
+  "title": "plugins.ranks.views.benefits.title",
+  "lang": "plugins.ranks.views.benefits",
+  "structure": [
+    ". . . . . . . . .",
+    ". . . . s . . . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "s": {
+      "bind": "subject"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "size": 3,
+  "title": "plugins.ranks.views.tiers.title",
+  "lang": "plugins.ranks.views.tiers",
+  "structure": [
+    ". . . . . . . . .",
+    ". . . o o o . . .",
+    ". . . . b . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "b": {
+      "bind": "back"
+    }
+  }
+}

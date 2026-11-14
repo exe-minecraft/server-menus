@@ -1,0 +1,21 @@
+{
+  "size": 3,
+  "title": "plugins.ranks.views.rankup.title",
+  "lang": "plugins.ranks.views.rankup",
+  "structure": [
+    ". . . . . . . . .",
+    ". . a . s . d . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "a": {
+      "bind": "accept"
+    },
+    "s": {
+      "bind": "subject"
+    },
+    "d": {
+      "bind": "deny"
+    }
+  }
+}
