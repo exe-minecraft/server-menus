@@ -1,0 +1,22 @@
+{
+  "size": 5,
+  "title": "plugins.world-manager.views.schematics.title",
+  "lang": "plugins.world-manager.views.schematics",
+  "overlay": {
+    "material": "WEB",
+    "name": "plugins.world-manager.views.schematics.empty.name",
+    "lore": "plugins.world-manager.views.schematics.empty.lore"
+  },
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    "< o o o o o o o >",
+    ". o o o o o o o .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next"
+  }
+}
