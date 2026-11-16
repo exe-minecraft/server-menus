@@ -1,0 +1,22 @@
+{
+  "size": 6,
+  "title": "plugins.essentials.views.kit-visualization.title",
+  "lang": "plugins.essentials.views.kit-visualization",
+  "content-state": true,
+  "structure": [
+    ". . . . . . . . .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    ". o o o o o o o .",
+    "< . . . b . . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "b": {
+      "bind": "back"
+    }
+  }
+}

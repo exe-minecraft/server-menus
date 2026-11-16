@@ -1,0 +1,14 @@
+{
+  "size": 4,
+  "title": "plugins.essentials.views.kit-edit.title",
+  "lang": "plugins.essentials.views.kit-edit",
+  "structure": [
+    "s s s s s s s s s",
+    "s s s s s s s s s",
+    "s s s s s s s s s",
+    "s s s s s s s s s"
+  ],
+  "ingredients": {
+    "s": "storage"
+  }
+}
