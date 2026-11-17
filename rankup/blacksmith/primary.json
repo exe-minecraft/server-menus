@@ -1,0 +1,17 @@
+{
+  "size": 4,
+  "title": "plugins.blacksmith.views.primary.title",
+  "lang": "plugins.blacksmith.views.primary",
+  "structure": [
+    ". . . . h . . . .",
+    ". . . . . . . . .",
+    ". . s . t . a . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "h": { "bind": "head" },
+    "s": { "bind": "swords", "material": "DIAMOND_SWORD", "glowing": true },
+    "t": { "bind": "tools", "material": "DIAMOND_PICKAXE", "glowing": true },
+    "a": { "bind": "armor", "material": "DIAMOND_CHESTPLATE", "glowing": true }
+  }
+}

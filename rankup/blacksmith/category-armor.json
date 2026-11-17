@@ -1,0 +1,15 @@
+{
+  "size": 4,
+  "title": "plugins.blacksmith.views.category.armor.title",
+  "lang": "plugins.blacksmith.views.category.armor",
+  "structure": [
+    ". . . . h . . . .",
+    ". . . . . . . . .",
+    ". . o o o o o . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "h": { "bind": "head" },
+    "o": { "content": "options" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "size": 5,
+  "title": "plugins.blacksmith.views.category.tools.title",
+  "lang": "plugins.blacksmith.views.category.tools",
+  "structure": [
+    ". . . . h . . . .",
+    ". . . . . . . . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . . . . . . . ."
+  ],
+  "ingredients": {
+    "h": { "bind": "head" },
+    "o": { "content": "options" }
+  }
+}

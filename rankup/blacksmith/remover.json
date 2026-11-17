@@ -1,0 +1,17 @@
+{
+  "size": 4,
+  "title": "plugins.blacksmith.views.remover.title",
+  "lang": "plugins.blacksmith.views.remover",
+  "structure": [
+    ". . . . i . . . .",
+    ". . . . . . . . .",
+    ". . e e e e e . .",
+    "< . e e e e e . >"
+  ],
+  "ingredients": {
+    "i": { "bind": "info", "material": "BOOK_AND_QUILL" },
+    "e": "content",
+    "<": "page-previous",
+    ">": "page-next"
+  }
+}
