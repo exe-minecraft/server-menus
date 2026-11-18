@@ -1,0 +1,28 @@
+{
+  "size": 3,
+  "title": "plugins.weapons.espada.views.weapon.title",
+  "lang": "plugins.weapons.espada.views.weapon",
+  "structure": [
+    ". . . . . . . . .",
+    ". w . o o o o o .",
+    ". r . . . . . . d"
+  ],
+  "ingredients": {
+    "o": "content",
+    "w": {
+      "bind": "weapon"
+    },
+    "r": {
+      "bind": "repair",
+      "material": "ANVIL",
+      "name": "plugins.weapons.espada.views.weapon.items.3.name",
+      "lore": "plugins.weapons.espada.views.weapon.items.3.lore"
+    },
+    "d": {
+      "bind": "delete",
+      "material": "BARRIER",
+      "name": "plugins.weapons.espada.views.weapon.items.7.name",
+      "lore": "plugins.weapons.espada.views.weapon.items.7.lore"
+    }
+  }
+}
