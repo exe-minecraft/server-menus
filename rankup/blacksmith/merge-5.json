@@ -3,12 +3,11 @@
   "title": "plugins.blacksmith.views.merge.title",
   "lang": "plugins.blacksmith.views.merge",
   "structure": [
-    "g g g g g g g g g",
-    "g i i i i i g r g",
-    "g g g g g g g g g"
+    ". . . . . . . . .",
+    ". i i i i i . r .",
+    ". . . . . . . . ."
   ],
   "ingredients": {
-    "g": { "material": "STAINED_GLASS_PANE", "data": 15 },
     "i": { "content": "inputs" },
     "r": { "bind": "result" }
   }

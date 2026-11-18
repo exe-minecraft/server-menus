@@ -3,13 +3,12 @@
   "title": "plugins.blacksmith.views.recycle.title",
   "lang": "plugins.blacksmith.views.recycle",
   "structure": [
-    "g g g g b g g g g",
-    "g g g g g g g g g",
-    "g g i i i i i g g",
-    "g g i i i i i g g"
+    ". . . . b . . . .",
+    ". . . . . . . . .",
+    ". . i i i i i . .",
+    ". . i i i i i . ."
   ],
   "ingredients": {
-    "g": { "material": "STAINED_GLASS_PANE", "data": 15 },
     "b": { "bind": "summary" },
     "i": { "content": "inputs" }
   }
