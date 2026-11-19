@@ -5,10 +5,11 @@
   "structure": [
     ". . . . . . . . .",
     ". . i i i . . r .",
-    ". . . . . . . . ."
+    "b . . . . . . . ."
   ],
   "ingredients": {
     "i": { "content": "inputs" },
-    "r": { "bind": "result" }
+    "r": { "bind": "result" },
+    "b": { "bind": "back" }
   }
 }

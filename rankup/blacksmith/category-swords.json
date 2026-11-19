@@ -1,5 +1,5 @@
 {
-  "size": 5,
+  "size": 6,
   "title": "plugins.blacksmith.views.category.swords.title",
   "lang": "plugins.blacksmith.views.category.swords",
   "structure": [
@@ -7,10 +7,12 @@
     ". . . . . . . . .",
     ". . o o o o o . .",
     ". . . . o . . . .",
-    ". . . . . . . . ."
+    ". . . . . . . . .",
+    ". . . . b . . . ."
   ],
   "ingredients": {
     "h": { "bind": "head" },
-    "o": { "content": "options" }
+    "o": { "content": "options" },
+    "b": { "bind": "back" }
   }
 }

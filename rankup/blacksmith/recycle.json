@@ -1,12 +1,13 @@
 {
-  "size": 4,
+  "size": 5,
   "title": "plugins.blacksmith.views.recycle.title",
   "lang": "plugins.blacksmith.views.recycle",
   "structure": [
     ". . . . b . . . .",
     ". . . . . . . . .",
     ". . i i i i i . .",
-    ". . i i i i i . ."
+    ". . i i i i i . .",
+    ". . . . . . . . ."
   ],
   "ingredients": {
     "b": { "bind": "summary" },
