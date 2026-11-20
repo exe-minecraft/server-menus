@@ -1,0 +1,27 @@
+{
+  "size": 6,
+  "title": "plugins.plots.views.schematic.glass.title",
+  "lang": "plugins.plots.views.schematic.glass",
+  "structure": [
+    ". . . . i . . . .",
+    ". . . . . . . . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    "< . . . b . t . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "i": {
+      "bind": "info"
+    },
+    "b": {
+      "bind": "back"
+    },
+    "t": {
+      "bind": "top"
+    }
+  }
+}

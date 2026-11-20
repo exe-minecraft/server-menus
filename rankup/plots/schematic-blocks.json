@@ -1,0 +1,21 @@
+{
+  "size": 6,
+  "title": "plugins.plots.views.schematic.blocks.title",
+  "lang": "plugins.plots.views.schematic.blocks",
+  "structure": [
+    ". . . . . . . . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    ". . o o o o o . .",
+    "< . . . b . . . >"
+  ],
+  "ingredients": {
+    "o": "content",
+    "<": "page-previous",
+    ">": "page-next",
+    "b": {
+      "bind": "back"
+    }
+  }
+}

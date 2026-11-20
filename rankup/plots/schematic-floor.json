@@ -1,0 +1,25 @@
+{
+  "size": 4,
+  "title": "plugins.plots.views.schematic.floor.title",
+  "lang": "plugins.plots.views.schematic.floor",
+  "structure": [
+    ". . . . i . . . .",
+    ". . . . . . . . .",
+    ". . f . . . c . .",
+    ". . . . b . . . ."
+  ],
+  "ingredients": {
+    "i": {
+      "bind": "info"
+    },
+    "f": {
+      "bind": "free"
+    },
+    "c": {
+      "bind": "copy"
+    },
+    "b": {
+      "bind": "back"
+    }
+  }
+}

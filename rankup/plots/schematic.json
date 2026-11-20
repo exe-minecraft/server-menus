@@ -1,0 +1,33 @@
+{
+  "size": 6,
+  "title": "plugins.plots.views.schematic.main.title",
+  "lang": "plugins.plots.views.schematic.main",
+  "structure": [
+    ". . . . i . . . .",
+    ". . . . . . . . .",
+    ". w . f . c . d .",
+    ". . . . . . . . .",
+    ". . . . . . . . .",
+    ". . . . x . . . ."
+  ],
+  "ingredients": {
+    "i": {
+      "bind": "info"
+    },
+    "w": {
+      "bind": "walls"
+    },
+    "f": {
+      "bind": "floor"
+    },
+    "c": {
+      "bind": "ceiling"
+    },
+    "d": {
+      "bind": "dome"
+    },
+    "x": {
+      "bind": "finish"
+    }
+  }
+}
